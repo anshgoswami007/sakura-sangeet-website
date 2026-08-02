@@ -1,0 +1,14 @@
+# Unoptimized original photo uploads (not referenced by the site — see assets/images/
+# for the web-optimized versions actually used in HTML). Kept locally, not in the repo.
+assets/images/Anshul Goswami.jpg
+assets/images/Hanano Akeo.jpg
+assets/images/Karamveer Bishnoi.jpg
+assets/images/Kota Shibui.jpg
+assets/images/Nainy Kaur.jpeg
+assets/images/Nathan.jpg
+assets/images/Swarnpal Singh.jpg
+assets/images/Takayuki Ueda.jpg
+
+# OS junk
+.DS_Store
+Thumbs.db
