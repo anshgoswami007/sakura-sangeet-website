@@ -3,55 +3,55 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://sakurasangeet.example/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/index.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/index.html"/>
+    <loc>https://sakurasangeet.netlify.app/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/index.html"/>
   </url>
   <url>
-    <loc>https://sakurasangeet.example/about.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/about.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/about.html"/>
+    <loc>https://sakurasangeet.netlify.app/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/about.html"/>
   </url>
   <url>
-    <loc>https://sakurasangeet.example/music.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/music.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/music.html"/>
+    <loc>https://sakurasangeet.netlify.app/music.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/music.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/music.html"/>
   </url>
   <url>
-    <loc>https://sakurasangeet.example/events.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/events.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/events.html"/>
+    <loc>https://sakurasangeet.netlify.app/events.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/events.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/events.html"/>
   </url>
   <url>
-    <loc>https://sakurasangeet.example/contact.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/contact.html"/>
+    <loc>https://sakurasangeet.netlify.app/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/contact.html"/>
   </url>
 
   <url>
-    <loc>https://sakurasangeet.example/ja/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/index.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/index.html"/>
+    <loc>https://sakurasangeet.netlify.app/ja/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/index.html"/>
   </url>
   <url>
-    <loc>https://sakurasangeet.example/ja/about.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/about.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/about.html"/>
+    <loc>https://sakurasangeet.netlify.app/ja/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/about.html"/>
   </url>
   <url>
-    <loc>https://sakurasangeet.example/ja/music.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/music.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/music.html"/>
+    <loc>https://sakurasangeet.netlify.app/ja/music.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/music.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/music.html"/>
   </url>
   <url>
-    <loc>https://sakurasangeet.example/ja/events.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/events.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/events.html"/>
+    <loc>https://sakurasangeet.netlify.app/ja/events.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/events.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/events.html"/>
   </url>
   <url>
-    <loc>https://sakurasangeet.example/ja/contact.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.example/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.example/ja/contact.html"/>
+    <loc>https://sakurasangeet.netlify.app/ja/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakurasangeet.netlify.app/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sakurasangeet.netlify.app/ja/contact.html"/>
   </url>
 
 </urlset>

@@ -45,9 +45,10 @@ the same file.
    flyers) — confirm this is correct.
 3. **Email address** — `links.email` in `data.js` is a placeholder `mailto:` —
    replace with your real contact email.
-4. **Domain** — `index.html`/`about.html`/etc. and `sitemap.xml`/`robots.txt`
-   reference a placeholder domain `https://sakurasangeet.example/`. Once you pick
-   a real domain, find-and-replace that placeholder everywhere.
+4. **Domain** — the site is live at `https://sakurasangeet.netlify.app/`, and all
+   canonical/OG/JSON-LD/sitemap references point there. If you later attach a
+   custom domain in Netlify, find-and-replace `sakurasangeet.netlify.app`
+   everywhere with your new domain.
 5. **Member photos** — every member currently points to
    `assets/images/member-placeholder.svg` (a generic silhouette icon). Add each
    musician's real photo to `assets/images/` and update their `photo` field in
