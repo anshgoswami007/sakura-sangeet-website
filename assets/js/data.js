@@ -87,6 +87,13 @@ var SITE_DATA = {
       photo: "assets/images/nathan.jpg",
       instagram: null,
       name: { en: "Nathan", ja: "ネイサン" }
+    },
+    {
+      id: "c5",
+      initials: "A",
+      photo: "assets/images/amit-chauhan.jpg",
+      instagram: "_amit.c_",
+      name: { en: "Amit Chauhan", ja: "アミット・チャウハン" }
     }
   ],
 
@@ -123,6 +130,39 @@ var SITE_DATA = {
         ja: "Sakura Sangeetによるライブ・スーフィーと、DJ PindDropによるボリウッド・ダンスビート。入場無料・要予約。"
       },
       image: "assets/images/event-sufi-bollywood-night.jpg"
+    },
+    {
+      id: "e4",
+      date: "2026-03-24",
+      title: { en: "Tribute to Pankaj Tripathi — \"Kaleen Bhaiya\"", ja: "パンカジ・トリパティへのトリビュート ～「カリーン・バイヤ」～" },
+      venue: { en: "Edogawa Cultural Center, Tokyo", ja: "江戸川区文化センター、東京" },
+      description: {
+        en: "A musical tribute performance featuring Nainy Kaur (vocals), Karamveer Bishnoi (drums), and Anshul Goswami (guitar).",
+        ja: "ナイニー・カウル（ボーカル）、カラムヴィール・ビシュノイ（ドラム）、アンシュル・ゴスワミ（ギター）による音楽トリビュート公演。"
+      },
+      image: "assets/images/event-pankaj-tripathi-tribute.jpg"
+    },
+    {
+      id: "e5",
+      date: "2026-05-30",
+      title: { en: "International Festival 2026 — International University of Japan", ja: "国際フェスティバル2026 ～国際大学（新潟）～" },
+      venue: { en: "IUJ Campus, Niigata", ja: "国際大学キャンパス、新潟" },
+      description: {
+        en: "A cultural performance celebrating diversity and connection at the International University of Japan's annual festival.",
+        ja: "国際大学の年次フェスティバルにおける、多様性とつながりを祝う文化公演。"
+      },
+      image: "assets/images/event-niigata-international-festival.jpg"
+    },
+    {
+      id: "e6",
+      date: "2025-12-31",
+      title: { en: "New Year's Eve Live Performance", ja: "ニューイヤーズ・イブ ライブ演奏" },
+      venue: { en: "Madhuram Vilas (Patria 1F), Tokyo", ja: "マドゥラム・ヴィラス（パトリア1F）、東京" },
+      description: {
+        en: "Live Sufi, Bollywood and Bhajan performance to ring in the New Year.",
+        ja: "新年を祝うスーフィー・ボリウッド・バジャンのライブ演奏。"
+      },
+      image: "assets/images/event-new-year-eve-2025.jpg"
     }
   ],
 
