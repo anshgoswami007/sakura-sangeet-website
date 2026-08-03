@@ -104,6 +104,65 @@ var SITE_DATA = {
     }
   ],
 
+  // Music genres shown on the Home and Music pages. "icon" maps to an SVG in
+  // assets/js/main.js (GENRE_ICONS) — add a matching key there for new genres.
+  genres: [
+    {
+      id: "sufi",
+      icon: "sufi",
+      name: { en: "Sufi", ja: "スーフィー" },
+      description: {
+        en: "Qawwali and Sufi melodies performed with live tabla, flute and vocals.",
+        ja: "タブラ、フルート、ボーカルによるカッワーリーとスーフィーの旋律。"
+      }
+    },
+    {
+      id: "bollywood",
+      icon: "bollywood",
+      name: { en: "Bollywood", ja: "ボリウッド" },
+      description: {
+        en: "Beloved Bollywood hits across decades, arranged for a full live band.",
+        ja: "世代を超えて愛されるボリウッドの名曲をフルバンド編成で。"
+      }
+    },
+    {
+      id: "bhajan",
+      icon: "bhajan",
+      name: { en: "Bhajan", ja: "バジャン" },
+      description: {
+        en: "Devotional bhajans for community and cultural gatherings.",
+        ja: "コミュニティや文化行事のための宗教的な祈りの歌。"
+      }
+    },
+    {
+      id: "punjabi",
+      icon: "punjabi",
+      name: { en: "Punjabi", ja: "パンジャービー" },
+      description: {
+        en: "High-energy Punjabi folk and bhangra beats that get the whole room dancing.",
+        ja: "会場全体を踊らせる、パワフルなパンジャブ・フォークとバングラのビート。"
+      }
+    },
+    {
+      id: "classical",
+      icon: "classical",
+      name: { en: "Classical", ja: "クラシック" },
+      description: {
+        en: "Classical Indian ragas and instrumental pieces rooted in centuries-old tradition.",
+        ja: "何世紀にもわたる伝統に根ざした、古典インドのラーガと器楽曲。"
+      }
+    },
+    {
+      id: "western",
+      icon: "western",
+      name: { en: "Western", ja: "洋楽" },
+      description: {
+        en: "Contemporary Western pop, rock and acoustic covers alongside our Indian repertoire.",
+        ja: "インドのレパートリーに加え、現代的な洋楽ポップ・ロック・アコースティックカバーも演奏します。"
+      }
+    }
+  ],
+
   events: [
     {
       id: "e1",
