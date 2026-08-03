@@ -65,35 +65,42 @@ var SITE_DATA = {
       initials: "T",
       photo: "assets/images/takayuki-ueda.jpg",
       instagram: "rubab_japan",
-      name: { en: "Takayuki Ueda", ja: "タカユキ・ウエダ" }
+      name: { en: "Takayuki Ueda", ja: "タカユキ ウエダ" }
     },
     {
       id: "c2",
       initials: "K",
       photo: "assets/images/kota-shibui.jpg",
       instagram: "danli.sitar",
-      name: { en: "Kota Shibui", ja: "コウタ・シブイ" }
+      name: { en: "Kota Shibui", ja: "コウタ シブイ" }
     },
     {
       id: "c3",
       initials: "H",
       photo: "assets/images/hanano-akeo.jpg",
       instagram: null,
-      name: { en: "Hanano Akeo", ja: "ハナノ・アケオ" }
+      name: { en: "Hanano Akeo", ja: "ハナノ アケオ" }
     },
     {
       id: "c4",
       initials: "N",
       photo: "assets/images/nathan.jpg",
-      instagram: null,
-      name: { en: "Nathan", ja: "ネイサン" }
+      instagram: "ngc4594",
+      name: { en: "Nathan Hornsby", ja: "ネイサン ホーンズビー" }
     },
     {
       id: "c5",
       initials: "A",
       photo: "assets/images/amit-chauhan.jpg",
       instagram: "_amit.c_",
-      name: { en: "Amit Chauhan", ja: "アミット・チャウハン" }
+      name: { en: "Amit Chauhan", ja: "アミット チャウハン" }
+    },
+    {
+      id: "c6",
+      initials: "A",
+      photo: "assets/images/rajat.jpg",
+      instagram: "rajat_joshi0927",
+      name: { en: "Rajat Joshi", ja: "ラジャット ジョシ" }
     }
   ],
 
